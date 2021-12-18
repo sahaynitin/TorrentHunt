@@ -1,1 +1,1 @@
-worker: python3 TorrentHunt.py
+mkdir /opt/TorrentHunt && cd /opt/TorrentHunt
